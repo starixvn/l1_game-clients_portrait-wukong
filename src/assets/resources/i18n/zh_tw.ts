@@ -373,8 +373,8 @@ export const languages = {
         "you_have_won": "你贏了",
         "you_win_free_spin": "您贏得",
         "msg_random_multipliers": "隨機倍數最高可達250x",
-        "mgs_free_spins": "Free Spin中的遞增倍數",
-        "btn_buy_free_spins": "购买\nFree Spins"
+        "btn_buy_free_spins": "购买\nFree Spins",
+        "msg_free_spins": "Free Spin中的遞增倍數"
     },
     "Olympub": {
         "game_icon_name": "奧林酒館",
