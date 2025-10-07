@@ -81,7 +81,8 @@ export const languages = {
         "bet": "বেট",
         "msg_random_multipliers": "250x পর্যন্ত র্যান্ডম মাল্টিপ্লায়ার",
         "btn_buy_free_spins": "Buy Free Spins",
-        "msg_free_spins": "Free Spins এ ক্রমবর্ধমান মাল্টিপ্লায়ার"
+        "msg_free_spins": "Free Spins এ ক্রমবর্ধমান মাল্টিপ্লায়ার",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "বাজি ইতিহাস",
@@ -374,11 +375,9 @@ export const languages = {
         "title_multiplier": "গুণক",
         "crash_start_in": "শুরু হবে %{time}",
         "crashed": "বিধ্বস্ত",
-        "start": "শুরু করুন"
-    },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
+        "start": "শুরু করুন",
+        "max": "সর্বোচ্চ",
+        "stop_auto_bet": "অটো বেট বন্ধ করুন"
     },
     "FreeSpinBonus": {
         "bet_level": "বেট লেভেল",
@@ -453,6 +452,10 @@ export const languages = {
         "total_win": "মোট জয়",
         "Unexpected_gift_code_error_message": " অপ্রত্যাশিত ত্রুটি ঘটেছে। পরে আবার চেষ্টা করুন।",
         "Close": "বন্ধ"
+    },
+    "WukongsRevenge": {
+        "game_name": "Wukong's Revenge",
+        "game_icon_name": "Wukong এর প্রতিশোধ"
     }
 };
 

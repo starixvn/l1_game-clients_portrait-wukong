@@ -81,7 +81,8 @@ export const languages = {
         "bet": "베팅",
         "msg_random_multipliers": "최대 250배 랜덤 멀티플라이어",
         "btn_buy_free_spins": "Free Spins\n구매",
-        "msg_free_spins": "Free Spins에서 증가하는 멀티플라이어"
+        "msg_free_spins": "Free Spins에서 증가하는 멀티플라이어",
+        "turbo_icon": "터보"
     },
     "Common": {
         "bet_history": "베팅 내역",
@@ -374,15 +375,9 @@ export const languages = {
         "title_multiplier": "배수",
         "crash_start_in": "시작까지 %{time}",
         "crashed": "크래시",
-        "start": "시작"
-    },
-    "PickleballLoveStory": {
-        "game_name": null,
-        "game_icon_name": null
-    },
-    "Olympub": {
-        "game_name": "올림펍",
-        "game_icon_name": "올림펍"
+        "start": "시작",
+        "max": "최대",
+        "stop_auto_bet": "자동 베팅 중단"
     },
     "FreeSpinBonus": {
         "bet_level": "베팅 레벨",
@@ -457,6 +452,10 @@ export const languages = {
         "total_win": "총 당첨금",
         "Unexpected_gift_code_error_message": "예기치 않은 오류가 발생했습니다. 나중에 다시 시도해 주십시오.",
         "Close": "닫기"
+    },
+    "WukongsRevenge": {
+        "game_name": "오공의 복수",
+        "game_icon_name": "오공의 복수"
     }
 };
 

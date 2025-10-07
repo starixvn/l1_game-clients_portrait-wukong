@@ -291,7 +291,9 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "max": "Max",
+        "stop_auto_bet": "Stop Auto Bet"
     },
     "cascadingslot": {
         "auto_spin": "Auto Spin",
@@ -352,10 +354,10 @@ export const languages = {
         "show_msg_when_spin_phone": "Tap or hold Spin to begin",
         "start": "Start",
         "super_win": "Super Win",
-        "top_message1": "SYMBOLS PAY ANYWHERE ON THE SCREEN",
-        "top_message2a": "HIT",
-        "top_message2b": "TO MULTIPLY TUMBLE WIN",
-        "top_message3": "WIN UP TO %{maxWin}X BET",
+        "top_message1": "Symbols pay anywhere on the screen",
+        "top_message2a": "Hit",
+        "top_message2b": "to multiply tumble win",
+        "top_message3": "Win up to %{maxWin}x bet",
         "total_bet": "Total Bet",
         "total_bet_shorten": "Total Bet",
         "total_multiplier": "Total Multiplier",
@@ -374,11 +376,8 @@ export const languages = {
         "you_win_free_spin": "You win",
         "msg_random_multipliers": "Random Multipliers up to 250x",
         "btn_buy_free_spins": "Buy\nFree Spins",
-        "msg_free_spins": "Increasing Multiplier in Free Spins"
-    },
-    "Olympub": {
-        "game_icon_name": "Olympub",
-        "game_name": "Olympub"
+        "msg_free_spins": "Increasing Multiplier in Free Spins",
+        "turbo_icon": "Turbo"
     },
     "FreeSpinBonus": {
         "bet_level": "Bet Level",
@@ -453,6 +452,10 @@ export const languages = {
         "total_bet": "Total Bet",
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Unexpected error occurred. Please try again later."
+    },
+    "WukongsRevenge": {
+        "game_name": "Wukong's Revenge",
+        "game_icon_name": "Wukong's Revenge"
     }
 };
 

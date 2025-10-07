@@ -39,10 +39,10 @@ export const languages = {
         "from_settle_to_spin2": "Gire mais, ganhe mais!",
         "from_settle_to_spin3": "Experimente o modo Turbo",
         "show_msg_when_spin_phone": "Toque ou segure em Girar para começar",
-        "top_message1": "SÍMBOLOS PAGAM EM QUALQUER LUGAR NA TELA",
-        "top_message2a": "PEDIR",
-        "top_message2b": "PARA MULTIPLICAR O GANHO EM CASCATA",
-        "top_message3": "GANHE ATÉ %{maxWin}x a aposta",
+        "top_message1": "Os símbolos pagam em qualquer lugar da tela",
+        "top_message2a": "Bater",
+        "top_message2b": "para multiplicar o ganho de queda",
+        "top_message3": "Ganhe até %{maxWin}x a aposta",
         "win_tumble_msg": "PARABÉNS!",
         "round_settle_msg": "Boa sorte!",
         "index": "Nº",
@@ -81,7 +81,8 @@ export const languages = {
         "bet": "Aposta",
         "msg_random_multipliers": "Multiplicadores Aleatórios de até 250x",
         "btn_buy_free_spins": "Comprar\nFree Spins",
-        "msg_free_spins": "Multiplicador crescente em Free Spin"
+        "msg_free_spins": "Multiplicador crescente em Free Spin",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "Histórico de Apostas",
@@ -374,15 +375,9 @@ export const languages = {
         "title_multiplier": "Multiplicador",
         "crash_start_in": "Começa em %{time}",
         "crashed": "CAIU",
-        "start": "Começar"
-    },
-    "PickleballLoveStory": {
-        "game_name": "Pickleball Love Story",
-        "game_icon_name": "Pickleball\nLove Story"
-    },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
+        "start": "Começar",
+        "max": "Máx.",
+        "stop_auto_bet": "Parar Aposta Automática"
     },
     "FreeSpinBonus": {
         "bet_level": "Nível de Aposta",
@@ -457,6 +452,10 @@ export const languages = {
         "total_win": "Ganho Total",
         "Unexpected_gift_code_error_message": "Ocorreu um erro inesperado. Por favor, tente novamente mais tarde.",
         "Close": "Fechar"
+    },
+    "WukongsRevenge": {
+        "game_name": "A Vingança de Wukong",
+        "game_icon_name": "A Vingança de Wukong"
     }
 };
 

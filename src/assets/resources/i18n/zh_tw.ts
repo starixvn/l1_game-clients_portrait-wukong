@@ -291,7 +291,9 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "max": "最大",
+        "stop_auto_bet": "停止自動投注"
     },
     "cascadingslot": {
         "auto_spin": "自動旋轉",
@@ -374,11 +376,8 @@ export const languages = {
         "you_win_free_spin": "您贏得",
         "msg_random_multipliers": "隨機倍數最高可達250x",
         "btn_buy_free_spins": "购买\nFree Spins",
-        "msg_free_spins": "Free Spin中的遞增倍數"
-    },
-    "Olympub": {
-        "game_icon_name": "奧林酒館",
-        "game_name": "奧林酒館"
+        "msg_free_spins": "Free Spin中的遞增倍數",
+        "turbo_icon": "渦輪"
     },
     "FreeSpinBonus": {
         "bet_level": "投注等級",
@@ -453,6 +452,10 @@ export const languages = {
         "total_bet": "總投注",
         "total_win": "總獎金",
         "Unexpected_gift_code_error_message": "發生意外錯誤。請稍後重試。"
+    },
+    "WukongsRevenge": {
+        "game_name": "悟空復仇",
+        "game_icon_name": "悟空復仇"
     }
 };
 

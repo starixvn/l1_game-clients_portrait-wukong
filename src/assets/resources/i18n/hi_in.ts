@@ -81,7 +81,8 @@ export const languages = {
         "bet": "बेट",
         "msg_random_multipliers": "250x तक यादृच्छिक गुणक",
         "btn_buy_free_spins": "Free Spins\nखरीदें",
-        "msg_free_spins": "Free Spins में बढ़ता हुआ गुणक"
+        "msg_free_spins": "Free Spins में बढ़ता हुआ गुणक",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "बेट इतिहास",
@@ -374,11 +375,9 @@ export const languages = {
         "title_multiplier": "गुणक ",
         "crash_start_in": "में शुरू %{time}",
         "crashed": "क्रैश हो गया",
-        "start": "शुरू"
-    },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
+        "start": "शुरू",
+        "max": "अधिकतम",
+        "stop_auto_bet": "ऑटो बेट बंद करें"
     },
     "FreeSpinBonus": {
         "bet_level": "बेट लेवल",
@@ -453,6 +452,10 @@ export const languages = {
         "total_win": "कुल जीत",
         "Unexpected_gift_code_error_message": "अप्रत्याशित त्रुटि हुई. कृपया बाद में पुन: प्रयास करें.",
         "Close": "बंद करें"
+    },
+    "WukongsRevenge": {
+        "game_name": "Wukong's Revenge",
+        "game_icon_name": "वुकोंग का बदला"
     }
 };
 

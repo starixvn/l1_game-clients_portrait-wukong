@@ -291,7 +291,9 @@ export const languages = {
         "win": "ชนะ",
         "win_loss": "ชนะ แพ้",
         "wins": "ชนะ",
-        "you_reach_max_win": "คุณถึงยอดชนะสูงสุด"
+        "you_reach_max_win": "คุณถึงยอดชนะสูงสุด",
+        "max": "สูงสุด",
+        "stop_auto_bet": "หยุดการเดิมพันอัตโนมัติ"
     },
     "cascadingslot": {
         "auto_spin": "สปินอัตโนมัติ",
@@ -374,11 +376,8 @@ export const languages = {
         "you_win_free_spin": "คุณชนะ",
         "msg_random_multipliers": "ตัวคูณสุ่มสูงสุด 250x",
         "btn_buy_free_spins": "ซื้อ\nFree Spins",
-        "msg_free_spins": "ตัวคูณเพิ่มขึ้นใน Free Spin"
-    },
-    "Olympub": {
-        "game_icon_name": "Olympub",
-        "game_name": "Olympub"
+        "msg_free_spins": "ตัวคูณเพิ่มขึ้นใน Free Spin",
+        "turbo_icon": "เทอร์โบ"
     },
     "FreeSpinBonus": {
         "bet_level": "ระดับเดิมพัน",
@@ -453,6 +452,10 @@ export const languages = {
         "total_bet": "ยอดเดิมพันรวม",
         "total_win": "ยอดชนะรวม",
         "Unexpected_gift_code_error_message": "เกิดข้อผิดพลาดที่ไม่คาดคิด โปรดลองอีกครั้งในภายหลัง"
+    },
+    "WukongsRevenge": {
+        "game_name": "การล้างแค้นของหงอคง",
+        "game_icon_name": "การล้างแค้น\nของหงอคง"
     }
 };
 

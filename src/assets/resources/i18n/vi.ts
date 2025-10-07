@@ -291,7 +291,9 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "max": "Max",
+        "stop_auto_bet": "Dừng cược tự động"
     },
     "cascadingslot": {
         "auto_spin": "Tự Quay",
@@ -352,10 +354,10 @@ export const languages = {
         "show_msg_when_spin_phone": "Bấm hoặc giữ nút Quay để bắt đầu",
         "start": "Bắt Đầu",
         "super_win": "Thắng Cực Lớn",
-        "top_message1": "BIỂU TƯỢNG ĐƯỢC TÍNH THẮNG NẰM Ở VỊ TRÍ BẤT KỲ",
-        "top_message2a": "QUAY TRÚNG",
-        "top_message2b": "ĐỂ NHÂN GIÁ TRỊ TIỀN THẮNG",
-        "top_message3": "THẮNG LÊN ĐẾN %{maxWin}X TIỀN CƯỢC",
+        "top_message1": "Biểu tượng được tính thắng nằm ở vị trí bất kỳ",
+        "top_message2a": "Quay trúng",
+        "top_message2b": "để nhân giá trị tiền thắng",
+        "top_message3": "Thắng lên đến %{maxWin}x tiền cược",
         "total_bet": "Tổng Cược",
         "total_bet_shorten": "Tổng Cược",
         "total_multiplier": "Tổng Số Nhân",
@@ -374,11 +376,8 @@ export const languages = {
         "you_win_free_spin": "Bạn đã thắng",
         "msg_random_multipliers": "Hệ Số Nhân ngẫu nhiên lên đến 250x",
         "btn_buy_free_spins": "Mua\nFree Spins",
-        "msg_free_spins": "Hệ Số Nhân tăng dần trong Free Spin"
-    },
-    "Olympub": {
-        "game_icon_name": "Quán Bar\nOlympus",
-        "game_name": "Quán Bar Olympus"
+        "msg_free_spins": "Hệ Số Nhân tăng dần trong Free Spin",
+        "turbo_icon": "Siêu Tốc"
     },
     "FreeSpinBonus": {
         "bet_level": "Mức Cược",
@@ -453,6 +452,10 @@ export const languages = {
         "total_bet": "Tổng Cược",
         "total_win": "Tổng Thắng",
         "Unexpected_gift_code_error_message": "Đã xảy ra lỗi. Vui lòng thử lại sau."
+    },
+    "WukongsRevenge": {
+        "game_name": "Ngộ Không Báo Thù",
+        "game_icon_name": "Ngộ Không Báo Thù"
     }
 };
 

@@ -39,10 +39,10 @@ export const languages = {
         "from_settle_to_spin2": "Daha çok çevir, daha çok kazan!",
         "from_settle_to_spin3": "Turbo modunu dene",
         "show_msg_when_spin_phone": "Başlamak için Döndür'e dokunun veya basılı tutun",
-        "top_message1": "SEMBOLLEER EKRANIN HER YERİNDE ÖDEME YAPAR",
+        "top_message1": "Semboller ekranın herhangi bir yerinde ödeme yapar",
         "top_message2a": "Vur",
-        "top_message2b": "YUVARLANAN KAZANCI ÇARPMAK İÇİN",
-        "top_message3": "BAHİSİN %{maxWin} KATI KAZANIN",
+        "top_message2b": "takla kazancını çarpmak için",
+        "top_message3": "Bahsin %{maxWin}x'ine kadar kazanın",
         "win_tumble_msg": "TEBRİKLER!",
         "round_settle_msg": "Bol şans!",
         "index": "Sıra No.",
@@ -81,7 +81,8 @@ export const languages = {
         "bet": "Bahis",
         "msg_random_multipliers": "250x'e Kadar Rastgele Çarpanlar",
         "btn_buy_free_spins": "Free Spins\nSatın Al",
-        "msg_free_spins": "Free Spins'te Artan Çarpan"
+        "msg_free_spins": "Free Spins'te Artan Çarpan",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "Bahis Geçmişi",
@@ -374,15 +375,9 @@ export const languages = {
         "title_multiplier": "Çarpan",
         "crash_start_in": "Başlayacak",
         "crashed": "ÇÖKTÜ",
-        "start": "Başlat"
-    },
-    "PickleballLoveStory": {
-        "game_name": null,
-        "game_icon_name": null
-    },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
+        "start": "Başlat",
+        "max": "Maks.",
+        "stop_auto_bet": "Otomatik Bahsi Durdur"
     },
     "FreeSpinBonus": {
         "bet_level": "Bahis Seviyesi",
@@ -457,6 +452,10 @@ export const languages = {
         "total_win": "Total Win",
         "Unexpected_gift_code_error_message": "Beklenmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
         "Close": "Kapat"
+    },
+    "WukongsRevenge": {
+        "game_name": "Wukong'un İntikamı",
+        "game_icon_name": "Wukong'un İntikamı"
     }
 };
 

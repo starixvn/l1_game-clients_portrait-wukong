@@ -39,10 +39,10 @@ export const languages = {
         "from_settle_to_spin2": "Putar lebih banyak, menang lebih banyak!",
         "from_settle_to_spin3": "Cuba mod Turbo",
         "show_msg_when_spin_phone": "Sentuh atau tahan Spin untuk memulakan",
-        "top_message1": "SIMBOL MEMBAYAR DI MANA-MANA PADA SKRIN",
-        "top_message2a": "TEKAN",
-        "top_message2b": "UNTUK MENDARABKAN KEMENANGAN TUMBLE",
-        "top_message3": "MENANG SEHINGGA %{maxWin}X BET",
+        "top_message1": "Simbol membayar di mana-mana pada skrin",
+        "top_message2a": "Pukul",
+        "top_message2b": "untuk melipatgandakan kemenangan runtuhan",
+        "top_message3": "Menang sehingga %{maxWin}x pertaruhan",
         "win_tumble_msg": "TAHNIAH!",
         "round_settle_msg": "Semoga berjaya!",
         "index": "No.",
@@ -81,7 +81,8 @@ export const languages = {
         "bet": "Taruhan",
         "msg_random_multipliers": "Pengganda rawak Sehingga 250x",
         "btn_buy_free_spins": "Beli\nFree Spins",
-        "msg_free_spins": "Peningkatan Pengganda Dalam Free Spins"
+        "msg_free_spins": "Peningkatan Pengganda Dalam Free Spins",
+        "turbo_icon": "Turbo"
     },
     "Common": {
         "bet_history": "Sejarah Pertaruhan",
@@ -374,11 +375,9 @@ export const languages = {
         "title_multiplier": "Pengganda ",
         "crash_start_in": "Mula dalam %{time}",
         "crashed": "RUNTUH",
-        "start": "Mula"
-    },
-    "Olympub": {
-        "game_name": "Olympub",
-        "game_icon_name": "Olympub"
+        "start": "Mula",
+        "max": "Maks",
+        "stop_auto_bet": "Berhenti Pertaruhan Auto"
     },
     "FreeSpinBonus": {
         "bet_level": "Bet Level",
@@ -453,6 +452,10 @@ export const languages = {
         "total_win": "Jumlah Kemenangan",
         "Unexpected_gift_code_error_message": "Ralat tak dijangka berlaku. Sila cuba lagi kemudian.",
         "Close": "Tutup"
+    },
+    "WukongsRevenge": {
+        "game_name": "Wukong's Revenge",
+        "game_icon_name": "Dendam Wukong"
     }
 };
 

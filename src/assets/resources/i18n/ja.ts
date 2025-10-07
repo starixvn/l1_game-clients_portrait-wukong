@@ -291,7 +291,9 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "max": "最大値",
+        "stop_auto_bet": "自動ベットを停止"
     },
     "cascadingslot": {
         "auto_spin": "オートスピン",
@@ -374,11 +376,8 @@ export const languages = {
         "you_win_free_spin": "当たり",
         "msg_random_multipliers": "最大250xのランダムマルチプライヤー",
         "btn_buy_free_spins": "Free Spins\nを購入",
-        "msg_free_spins": "Free Spin中で増加するマルチプライヤー"
-    },
-    "Olympub": {
-        "game_icon_name": "Olympub",
-        "game_name": "Olympub"
+        "msg_free_spins": "Free Spin中で増加するマルチプライヤー",
+        "turbo_icon": "ターボ"
     },
     "FreeSpinBonus": {
         "bet_level": "ベットレベル",
@@ -453,6 +452,10 @@ export const languages = {
         "total_bet": "合計ベット",
         "total_win": "合計勝利額",
         "Unexpected_gift_code_error_message": "予期せぬエラーが発生しました。後ほどもう一度お試しください。"
+    },
+    "WukongsRevenge": {
+        "game_name": "Wukong's Revenge",
+        "game_icon_name": "Wukong's Revenge"
     }
 };
 

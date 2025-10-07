@@ -291,7 +291,9 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "max": "Máx.",
+        "stop_auto_bet": "Detener apuesta automática"
     },
     "cascadingslot": {
         "auto_spin": "Giro Automático",
@@ -352,10 +354,10 @@ export const languages = {
         "show_msg_when_spin_phone": "Pulsa o mantén pulsado Girar para comenzar",
         "start": "Iniciar",
         "super_win": "Super Win",
-        "top_message1": "LOS SÍMBOLOS PAGAN EN CUALQUIER LUGAR DE LA PANTALLA",
-        "top_message2a": "ACIERTA",
-        "top_message2b": "PARA MULTIPLICAR LA GANANCIA EN CASCADA",
-        "top_message3": "GANA HASTA %{maxWin}X TU APUESTA",
+        "top_message1": "Los símbolos pagan en cualquier lugar de la pantalla",
+        "top_message2a": "Acierta",
+        "top_message2b": "para multiplicar la ganancia en cascada",
+        "top_message3": "Gana hasta %{maxWin}x tu apuesta",
         "total_bet": "Apuesta Total",
         "total_bet_shorten": "Apuesta Total",
         "total_multiplier": "Multiplicador Total",
@@ -374,11 +376,8 @@ export const languages = {
         "you_win_free_spin": "Ganaste",
         "msg_random_multipliers": "Multiplicadores aleatorios de hasta 250x",
         "btn_buy_free_spins": "Comprar\nFree Spins",
-        "msg_free_spins": "Multiplicador creciente en Free Spin"
-    },
-    "Olympub": {
-        "game_icon_name": "Olympub",
-        "game_name": "Olympub"
+        "msg_free_spins": "Multiplicador creciente en Free Spin",
+        "turbo_icon": "Turbo"
     },
     "FreeSpinBonus": {
         "bet_level": "Nivel de Apuesta",
@@ -453,6 +452,10 @@ export const languages = {
         "total_bet": "Apuesta Total",
         "total_win": "Ganancia Total",
         "Unexpected_gift_code_error_message": "Se ha producido un error inesperado. Por favor, inténtelo de nuevo más tarde."
+    },
+    "WukongsRevenge": {
+        "game_name": "Wukong's Revenge",
+        "game_icon_name": "Wukong's Revenge"
     }
 };
 

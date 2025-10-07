@@ -291,7 +291,9 @@ export const languages = {
         "invalid_bonus": "invalid_bonus",
         "opened_bonus": "opened_bonus",
         "invalid_jackpot": "invalid_jackpot",
-        "opened_jackpot": "opened_jackpot"
+        "opened_jackpot": "opened_jackpot",
+        "max": "Maks",
+        "stop_auto_bet": "Berhenti Taruhan Otomatis"
     },
     "cascadingslot": {
         "auto_spin": "Auto Putar",
@@ -352,10 +354,10 @@ export const languages = {
         "show_msg_when_spin_phone": "Ketuk atau tahan Spin untuk memulai",
         "start": "Mulai",
         "super_win": "Kemenangan Super",
-        "top_message1": "SIMBOL MEMBAYAR DI MANA SAJA DI LAYAR",
-        "top_message2a": "DAPATKAN",
-        "top_message2b": "UNTUK MENGGANDAKAN KEMENANGAN TUMBLE",
-        "top_message3": "MENANGKAN HINGGA %{maxWin}X TARUHAN",
+        "top_message1": "Simbol membayar di mana saja di layar",
+        "top_message2a": "Dapatkan",
+        "top_message2b": "untuk menggandakan kemenangan tumble",
+        "top_message3": "Menangkan hingga %{maxWin}x taruhan",
         "total_bet": "Total Taruhan",
         "total_bet_shorten": "Total \nTaruhan",
         "total_multiplier": "Pengganda Total",
@@ -374,11 +376,8 @@ export const languages = {
         "you_win_free_spin": "Anda menang",
         "msg_random_multipliers": "Pengganda acak hingga 250x",
         "btn_buy_free_spins": "Beli\nFree Spins",
-        "msg_free_spins": "Pengganda meningkat dalam Free Spin"
-    },
-    "Olympub": {
-        "game_icon_name": "Olympub",
-        "game_name": "Olympub"
+        "msg_free_spins": "Pengganda meningkat dalam Free Spin",
+        "turbo_icon": "Turbo"
     },
     "FreeSpinBonus": {
         "bet_level": "Level Taruhan",
@@ -453,6 +452,10 @@ export const languages = {
         "total_bet": "Total Taruhan",
         "total_win": "Total Menang ",
         "Unexpected_gift_code_error_message": "Terjadi kesalahan tak terduga. Silakan coba lagi nanti."
+    },
+    "WukongsRevenge": {
+        "game_name": "Pembalasan Wukong",
+        "game_icon_name": "Pembalasan Wukong"
     }
 };
 
