@@ -1,5 +1,5 @@
 {
-"skeleton": { "hash": "OQ5K8OFbWp3ySzxmpQhQSFkndYU", "spine": "3.8.99", "images": "./images/", "audio": "F:/WorkFolder/8 slotgame/animation/spin" },
+"skeleton": { "hash": "FLmyKjMNMBBqRVkqFgXRJlj/8Js", "spine": "3.8.99", "images": "./images/", "audio": "F:/WorkFolder/8 slotgame/animation/spin" },
 "bones": [
 	{ "name": "root" },
 	{ "name": "spin", "parent": "root" },
@@ -9,7 +9,8 @@
 	{ "name": "hover2", "parent": "spin", "scaleX": 1.5, "scaleY": 1.5 },
 	{ "name": "effect", "parent": "root" },
 	{ "name": "smoke", "parent": "effect" },
-	{ "name": "electric", "parent": "effect" }
+	{ "name": "electric", "parent": "effect" },
+	{ "name": "disable", "parent": "root" }
 ],
 "slots": [
 	{ "name": "hover", "bone": "hover", "blend": "additive" },
@@ -20,7 +21,8 @@
 	{ "name": "light2", "bone": "bg" },
 	{ "name": "light1", "bone": "bg", "color": "ffb2b2ff" },
 	{ "name": "smoke/smoke_1", "bone": "smoke", "blend": "additive" },
-	{ "name": "electric-circle/Electric _1", "bone": "electric", "blend": "additive" }
+	{ "name": "electric-circle/Electric _1", "bone": "electric", "blend": "additive" },
+	{ "name": "black-72-disable", "bone": "disable" }
 ],
 "skins": [
 	{
@@ -28,6 +30,9 @@
 		"attachments": {
 			"BG": {
 				"BG": { "width": 184, "height": 184 }
+			},
+			"black-72-disable": {
+				"black-72-disable": { "width": 100, "height": 100 }
 			},
 			"electric-circle/Electric _1": {
 				"electric circle/Electric _1": { "width": 180, "height": 180 },
@@ -64,6 +69,15 @@
 	}
 ],
 "animations": {
+	"disable": {
+		"slots": {
+			"black-72-disable": {
+				"attachment": [
+					{ "name": "black-72-disable" }
+				]
+			}
+		}
+	},
 	"hover": {
 		"slots": {
 			"hover": {

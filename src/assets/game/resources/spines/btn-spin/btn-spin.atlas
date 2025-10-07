@@ -1,6 +1,6 @@
 
 btn-spin.webp
-size: 1137,364
+size: 1147,364
 format: RGBA8888
 filter: Linear,Linear
 repeat: none
@@ -11,58 +11,65 @@ BG
   orig: 184, 184
   offset: 1, 1
   index: -1
+black-72-disable
+  rotate: false
+  xy: 139, 39
+  size: 98, 98
+  orig: 100, 100
+  offset: 1, 1
+  index: -1
 electric circle/Electric _1
   rotate: false
-  xy: 411, 184
+  xy: 239, 0
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 electric circle/Electric _2
   rotate: false
-  xy: 593, 184
+  xy: 411, 184
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 electric circle/Electric _3
   rotate: false
-  xy: 775, 184
+  xy: 421, 2
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 electric circle/Electric _4
   rotate: false
-  xy: 957, 184
+  xy: 593, 184
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 electric circle/Electric _5
   rotate: false
-  xy: 227, 0
+  xy: 603, 2
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 electric circle/Electric _6
   rotate: false
-  xy: 411, 2
+  xy: 775, 184
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 electric circle/Electric _7
   rotate: false
-  xy: 593, 2
+  xy: 785, 2
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
   index: -1
 electric circle/Electric _8
   rotate: false
-  xy: 775, 2
+  xy: 957, 184
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
@@ -75,15 +82,15 @@ hover/hover_1
   offset: 0, 0
   index: -1
 light2
-  rotate: false
-  xy: 139, 111
+  rotate: true
+  xy: 139, 10
   size: 27, 26
   orig: 39, 38
   offset: 6, 6
   index: -1
 smoke/smoke_1
   rotate: false
-  xy: 957, 2
+  xy: 967, 2
   size: 180, 180
   orig: 180, 180
   offset: 0, 0
