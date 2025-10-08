@@ -1,4 +1,4 @@
-{   
+{
     "turnOnEventMascot": true,
     "turnOnMultiplierMascot": false,
     "multiplierMascotAnimationName": "multiplier",
@@ -7,6 +7,7 @@
     "enablePeekEffect": true,
     "effectIntroMultiplier": true,
     "fixedExplodeDuration": 0.6,
-    "allowFreeSpinsFeature": false,
-    "multiplierLandMascotAnimationName": "multiplier"
+    "allowFreeSpinsFeature": true,
+    "multiplierLandMascotAnimationName": "multiplier",
+    "newMultiplierRange": true
 }

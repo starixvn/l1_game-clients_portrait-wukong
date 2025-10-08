@@ -14,7 +14,21 @@
             "symbol-spines/symbol-10",
             "symbol-spines/symbol-11",
             "symbol-spines/symbol-12",
-            "symbol-spines/symbol-13"
+            "symbol-spines/symbol-13",
+            "audios/click",
+            "audios/peek-effect-item",
+            "audios/stinger-freespin-peek",
+            "audios/peek-effect-shift",
+            "audios/reel-stop",
+            "audios/spin-button",
+            "audios/spinning-normal",
+            "audios/spinning-turbo",
+            "audios/big-win",
+            "audios/win",
+            "audios/freespin",
+            "audios/wincount-increment",
+            "audios/wincount-stop",
+            "audios/multiplier-land"
         ]
     },
     "localized": {
