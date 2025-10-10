@@ -28,7 +28,9 @@
             "audios/freespin",
             "audios/wincount-increment",
             "audios/wincount-stop",
-            "audios/multiplier-land"
+            "audios/multiplier-land",
+            "prefabs/freespins-section",
+            "prefabs/btn-spin"
         ]
     },
     "localized": {
