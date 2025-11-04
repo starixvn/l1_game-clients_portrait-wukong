@@ -91,5 +91,5 @@ export * as ja from "./ja";`
 
     writeFile("./src/remote/localization", JSON.stringify(remoteNames, null, 4), "json");
 
-    console.log("Generated done!");
+    
 });

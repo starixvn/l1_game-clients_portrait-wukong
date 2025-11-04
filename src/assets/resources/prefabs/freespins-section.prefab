@@ -672,8 +672,8 @@
     },
     "_contentSize": {
       "__type__": "cc.Size",
-      "width": 786,
-      "height": 1398.0000000000002
+      "width": 785.9999999999999,
+      "height": 1398
     },
     "_anchorPoint": {
       "__type__": "cc.Vec2",

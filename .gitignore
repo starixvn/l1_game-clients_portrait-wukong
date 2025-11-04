@@ -12,3 +12,4 @@ yarn.lock
 graphics/.pack_cache.json
 src/extensions/ccc-skeleton-viewer
 src/profiles/v2/packages/reference-image.json
+extensions/cocos-mcp-server
