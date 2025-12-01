@@ -1,4 +1,4 @@
 {
     "mainNamespace": "WukongsRevenge",
-    "additionalNamespaces": ["Common", "cascadingslot", "FreeSpinBonus"]
+    "additionalNamespaces": ["Common", "cascadingslot", "FreeSpinBonus", "FlashSpin"]
 }
