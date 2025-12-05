@@ -22,7 +22,4 @@
 	path = src/extensions/shared-common-slot
 	url = ../game-client-packages/shared-common-slot.git
 	branch = main
-[submodule "src/extensions/cocos-mcp-server"]
-	path = src/extensions/cocos-mcp-server
-	url = ../../n8n/cocos-mcp-server.git
-	branch = main
+
