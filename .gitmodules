@@ -22,4 +22,3 @@
 	path = src/extensions/shared-common-slot
 	url = ../game-client-packages/shared-common-slot.git
 	branch = main
-
